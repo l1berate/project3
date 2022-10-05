@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mengy\\OneDrive\\Desktop\\project 3\\project3\\EFServer\\EFServer.csproj": {}
+    "C:\\Users\\mrjdw\\source\\repos\\l1berate\\project3\\EFServer\\EFServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mengy\\OneDrive\\Desktop\\project 3\\project3\\EFServer\\EFServer.csproj": {
+    "C:\\Users\\mrjdw\\source\\repos\\l1berate\\project3\\EFServer\\EFServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mengy\\OneDrive\\Desktop\\project 3\\project3\\EFServer\\EFServer.csproj",
+        "projectUniqueName": "C:\\Users\\mrjdw\\source\\repos\\l1berate\\project3\\EFServer\\EFServer.csproj",
         "projectName": "EFServer",
-        "projectPath": "C:\\Users\\mengy\\OneDrive\\Desktop\\project 3\\project3\\EFServer\\EFServer.csproj",
-        "packagesPath": "C:\\Users\\mengy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mengy\\OneDrive\\Desktop\\project 3\\project3\\EFServer\\obj\\",
+        "projectPath": "C:\\Users\\mrjdw\\source\\repos\\l1berate\\project3\\EFServer\\EFServer.csproj",
+        "packagesPath": "C:\\Users\\mrjdw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrjdw\\source\\repos\\l1berate\\project3\\EFServer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mengy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mrjdw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -80,6 +85,18 @@
               "target": "Package",
               "version": "[6.0.9, )"
             },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
             "System.Security.Claims": {
               "target": "Package",
               "version": "[4.3.0, )"
@@ -104,7 +121,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
