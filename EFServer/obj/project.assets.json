@@ -3506,11 +3506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kswis\\Desktop\\P3\\EFServer\\EFServer.csproj",
+      "projectUniqueName": "C:\\Users\\kswis\\Desktop\\project3\\EFServer\\EFServer.csproj",
       "projectName": "EFServer",
-      "projectPath": "C:\\Users\\kswis\\Desktop\\P3\\EFServer\\EFServer.csproj",
+      "projectPath": "C:\\Users\\kswis\\Desktop\\project3\\EFServer\\EFServer.csproj",
       "packagesPath": "C:\\Users\\kswis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kswis\\Desktop\\P3\\EFServer\\obj\\",
+      "outputPath": "C:\\Users\\kswis\\Desktop\\project3\\EFServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kswis\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vy8A+IjQrd/7Sig4yI43vHzz7V7/pPT6UJsAxoUHxx2gr4LUk3o65XWBd34NPQWT3f168FxKCHQ1IuhPZHCzDg==",
+  "dgSpecHash": "A+3WnX2+WTe90YFaiIeL1xV8YEtgICAm76ttWVpz7+PBIpuwwNCQgozj7dztNa069s2WtZgAqrzKGkpiPVdlUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kswis\\Desktop\\P3\\EFServer\\EFServer.csproj",
+  "projectFilePath": "C:\\Users\\kswis\\Desktop\\project3\\EFServer\\EFServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kswis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kswis\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\6.0.9\\microsoft.aspnetcore.authentication.google.6.0.9.nupkg.sha512",
