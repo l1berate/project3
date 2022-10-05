@@ -1,0 +1,19 @@
+<mat-sidenav-container class="example-container">
+    <mat-sidenav
+      #sidenav
+      mode="side"
+    >
+      <ul>
+        <li>+ Home</li>
+        <li>Login</li>
+        <li>Products</li>
+        <li>Cart</li>
+        <li>Contact Us</li>
+      </ul>
+    </mat-sidenav>
+  
+    <mat-sidenav-content>
+      <p><button mat-button (click)="sidenav.toggle()">sidenav</button></p>
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+  
