@@ -1,23 +1,12 @@
 
 <div *ngFor="let item of p">
 <mat-card class="example-card">
-    <mat-card-header>
-      <div mat-card-avatar class="example-header-image"></div>
-      <mat-card-title>{{item.productName}}</mat-card-title>
-      <mat-card-subtitle>{{item.productCategory}}</mat-card-subtitle>
-    </mat-card-header>
-    <img mat-card-image src={{item.productImgUrl}} alt="Photo of product">
-    <mat-card-content>
-      <p>
-        {{item.productDescription}}
-      </p>
-      <p>
-        {{item.productPrice}}
-      </p>
-    </mat-card-content>
-    <mat-card-actions>
-      <button mat-button>LIKE</button>
-      <button mat-button>SHARE</button>
-    </mat-card-actions>
-  </mat-card>
+  <mat-card-title-group>
+    <mat-card-title>{{item.productName}}</mat-card-title>
+    <mat-card-subtitle>{{item.productCategory}}</mat-card-subtitle>
+  <img mat-card-lg-image src={{item.productImgUrl}} alt="Photo of product">
+  </mat-card-title-group>
+  <mat-card-content>
+  </mat-card-content>
+</mat-card>
 </div>
